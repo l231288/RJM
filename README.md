@@ -17,3 +17,9 @@ Requires Node.js 22.18 or newer. Install dependencies with `pnpm install`, then 
 ## Status
 
 This repository started empty. The issue has no description, so this first version follows the three choices confirmed in the conversation: standalone Obsidian plugin, standard checkbox tasks across the vault, and read-only browsing with source navigation.
+
+## Organization research library
+
+The complete 22-file [组织研究与成长](组织研究与成长/开始阅读.md) collection is included as a separate directory. It contains learning notes, blank practice templates, a clearly fictional example, two standalone HTML diagrams, and an XLSX diagnostic toolkit. The source collection has no verified real-department diagnosis or personnel records. The workbook copy committed here has its editor-name metadata removed; the original file was not changed.
+
+To read the collection in Obsidian, open this repository as a vault and start at `组织研究与成长/开始阅读.md`. The plugin only lists notes containing `- [ ]` tasks; the collection itself is primarily reference material and templates.
